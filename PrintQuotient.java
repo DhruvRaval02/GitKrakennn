@@ -1,4 +1,3 @@
-package printquotient;
 public class PrintQuotient implements QuotientInterface{
 
     public static void main(String[] args) {
